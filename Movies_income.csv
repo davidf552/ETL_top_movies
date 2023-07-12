@@ -1,0 +1,251 @@
+ranking,name,year,genre,budget,box_office
+1,The Shawshank Redemption,1994,Drama,25000000,28884504
+2,The Godfather,1972,"Crime,Drama",6000000,250341816
+3,The Dark Knight,2008,"Action,Crime,Drama",185000000,1006234167
+4,The Godfather Part II,1974,"Crime,Drama",13000000,47961919
+5,12 Angry Men,1957,"Crime,Drama",350000,955
+6,Schindler's List,1993,"Biography,Drama,History",22000000,322161245
+7,The Lord of the Rings: The Return of the King,2003,"Action,Adventure,Drama",94000000,1146457748
+8,Pulp Fiction,1994,"Crime,Drama",8000000,213928762
+9,The Lord of the Rings: The Fellowship of the Ring,2001,"Action,Adventure,Drama",93000000,898204420
+10,"The Good, the Bad and the Ugly",1966,"Adventure,Western",1200000,25253887
+11,Forrest Gump,1994,"Drama,Romance",55000000,678226465
+12,Fight Club,1999,Drama,63000000,101209702
+13,The Lord of the Rings: The Two Towers,2002,"Action,Adventure,Drama",94000000,947944270
+14,Inception,2010,"Action,Adventure,Sci-Fi",160000000,836848102
+15,Star Wars: Episode V - The Empire Strikes Back,1980,"Action,Adventure,Fantasy",18000000,538375067
+16,The Matrix,1999,"Action,Sci-Fi",63000000,467222728
+17,Goodfellas,1990,"Biography,Crime,Drama",25000000,47036784
+18,One Flew Over the Cuckoo's Nest,1975,Drama,3000000,109114817
+19,Se7en,1995,"Crime,Drama,Mystery",33000000,327333559
+20,Seven Samurai,1954,"Action,Drama",125000000,346258
+21,It's a Wonderful Life,1946,"Drama,Family,Fantasy",3180000,8574081
+22,The Silence of the Lambs,1991,"Crime,Drama,Thriller",19000000,272742922
+23,City of God,2002,"Crime,Drama",3300000,30680793
+24,Saving Private Ryan,1998,"Drama,War",70000000,482349603
+25,Interstellar,2014,"Adventure,Drama,Sci-Fi",165000000,773867216
+26,Life Is Beautiful,1997,"Comedy,Drama,Romance",20000000,230098753
+27,The Green Mile,1999,"Crime,Drama,Fantasy",60000000,286801374
+28,Star Wars: Episode IV - A New Hope,1977,"Action,Adventure,Fantasy",11000000,775398007
+29,Terminator 2: Judgment Day,1991,"Action,Sci-Fi",102000000,520881154
+30,Back to the Future,1985,"Adventure,Comedy,Sci-Fi",19000000,383336762
+31,Spirited Away,2001,"Animation,Adventure,Family",19000000,355822319
+32,The Pianist,2002,"Biography,Drama,Music",35000000,120072577
+33,Psycho,1960,"Horror,Mystery,Thriller",806947,32052925
+34,Parasite,2019,"Drama,Thriller",11400000,262676096
+35,Léon: The Professional,1994,"Action,Crime,Drama",115000000,19569225
+36,The Lion King,1994,"Animation,Adventure,Drama",45000000,968511805
+37,Gladiator,2000,"Action,Adventure,Drama",103000000,503162313
+38,American History X,1998,"Crime,Drama",20000000,23875127
+39,The Departed,2006,"Crime,Drama,Thriller",90000000,291480452
+40,The Usual Suspects,1995,"Crime,Drama,Mystery",6000000,23341568
+41,The Prestige,2006,"Drama,Mystery,Sci-Fi",40000000,109676311
+42,Whiplash,2014,"Drama,Music",3300000,49396747
+43,Casablanca,1942,"Drama,Romance,War",950000,4626532
+44,Grave of the Fireflies,1988,"Animation,Drama,War",3700000,516962
+45,Harakiri,1962,"Action,Drama,Mystery",0,0
+46,The Intouchables,2011,"Biography,Comedy,Drama",9500000,426588510
+47,Modern Times,1936,"Comedy,Drama,Romance",1500000,463618
+48,Once Upon a Time in the West,1968,Western,5000000,5435024
+49,Rear Window,1954,"Mystery,Thriller",1000000,37034579
+50,Cinema Paradiso,1988,"Drama,Romance",5000000,13019063
+51,Alien,1979,"Horror,Sci-Fi",11000000,106285522
+52,City Lights,1931,"Comedy,Drama,Romance",1500000,50419
+53,Apocalypse Now,1979,"Drama,Mystery,War",31500000,104880868
+54,Memento,2000,"Mystery,Thriller",9000000,40047078
+55,Django Unchained,2012,"Drama,Western",100000000,426074373
+56,Indiana Jones and the Raiders of the Lost Ark,1981,"Action,Adventure",18000000,389925971
+57,WALL·E,2008,"Animation,Adventure,Family",180000000,521311890
+58,The Lives of Others,2006,"Drama,Mystery,Thriller",2000000,77356942
+59,Sunset Blvd.,1950,"Drama,Film-Noir",1752000,300073
+60,Paths of Glory,1957,"Drama,War",935000,5252
+61,The Shining,1980,"Drama,Horror",19000000,47335804
+62,The Great Dictator,1940,"Comedy,Drama,War",2000000,970263
+63,Avengers: Infinity War,2018,"Action,Adventure,Sci-Fi",321000000,2052415039
+64,Witness for the Prosecution,1957,"Crime,Drama,Mystery",3000000,7693
+65,Aliens,1986,"Action,Adventure,Sci-Fi",18500000,131060248
+66,Spider-Man: Into the Spider-Verse,2018,"Animation,Action,Adventure",0,0
+67,American Beauty,1999,Drama,15000000,356296601
+68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,"Comedy,War",1800000,9523464
+69,The Dark Knight Rises,2012,"Action,Drama",250000000,1081169825
+70,Oldboy,2003,"Action,Drama,Mystery",3000000,15421226
+71,Inglourious Basterds,2009,"Adventure,Drama,War",70000000,321457747
+72,Amadeus,1984,"Biography,Drama,Music",18000000,52066791
+73,Coco,2017,"Animation,Adventure,Comedy",175000000,814337054
+74,Toy Story,1995,"Animation,Adventure,Comedy",30000000,394436586
+75,Joker,2019,"Crime,Drama,Thriller",55000000,1074458282
+76,Braveheart,1995,"Biography,Drama,History",72000000,213216216
+77,The Boat,1981,"Drama,War",32000000,11487676
+78,Avengers: Endgame,2019,"Action,Adventure,Drama",356000000,2799439100
+79,Princess Mononoke,1997,"Animation,Action,Adventure",2400000000,170005875
+80,Once Upon a Time in America,1984,"Crime,Drama",30000000,5473337
+81,Good Will Hunting,1997,"Drama,Romance",0,0
+82,Your Name.,2016,"Animation,Drama,Fantasy",0,0
+83,3 Idiots,2009,"Comedy,Drama",550000000,60262836
+84,Singin' in the Rain,1952,"Comedy,Musical,Romance",2540800,2000288
+85,Requiem for a Dream,2000,Drama,4500000,7390108
+86,Toy Story 3,2010,"Animation,Adventure,Comedy",200000000,1067316101
+87,High and Low,1963,"Crime,Drama,Mystery",0,0
+88,Capernaum,2018,Drama,0,0
+89,Star Wars: Episode VI - Return of the Jedi,1983,"Action,Adventure,Fantasy",32500000,475106177
+90,Eternal Sunshine of the Spotless Mind,2004,"Drama,Romance,Sci-Fi",20000000,74036715
+91,2001: A Space Odyssey,1968,"Adventure,Sci-Fi",12000000,65889846
+92,Reservoir Dogs,1992,"Crime,Thriller",1200000,2913644
+93,Come and See,1985,"Drama,Thriller,War",0,0
+94,The Hunt,2012,Drama,0,0
+95,Citizen Kane,1941,"Drama,Mystery",839727,1645133
+96,M,1931,"Crime,Mystery,Thriller",0,35566
+97,Lawrence of Arabia,1962,"Adventure,Biography,Drama",15000000,45720631
+98,North by Northwest,1959,"Action,Adventure,Mystery",3101000,142319
+99,Vertigo,1958,"Mystery,Romance,Thriller",2479000,7798146
+100,Ikiru,1952,Drama,0,96302
+101,Amélie,2001,"Comedy,Romance",10000000,174122191
+102,The Apartment,1960,"Comedy,Drama,Romance",3000000,18778738
+103,A Clockwork Orange,1971,"Crime,Sci-Fi",2200000,26960374
+104,Double Indemnity,1944,"Crime,Drama,Film-Noir",927262,14651
+105,Full Metal Jacket,1987,"Drama,War",30000000,46358827
+106,Top Gun: Maverick,2022,"Action,Drama",170000000,1488732821
+107,Scarface,1983,"Crime,Drama",25000000,65884703
+108,Hamilton,2020,"Biography,Drama,History",0,0
+109,Incendies,2010,"Drama,Mystery",6800000,6788659
+110,To Kill a Mockingbird,1962,"Crime,Drama",2000000,599146
+111,Heat,1995,"Action,Crime,Drama",60000000,187436818
+112,The Sting,1973,"Comedy,Crime,Drama",5500000,156000000
+113,Up,2009,"Animation,Adventure,Comedy",175000000,735099102
+114,A Separation,2011,Drama,500000,22926076
+115,Metropolis,1927,"Drama,Sci-Fi",6000000,1349711
+116,Taxi Driver,1976,"Crime,Drama",1300000,28570902
+117,L.A. Confidential,1997,"Crime,Drama,Mystery",35000000,126216940
+118,Die Hard,1988,"Action,Thriller",28000000,141603197
+119,Snatch,2000,"Comedy,Crime",6000000,83557872
+120,Indiana Jones and the Last Crusade,1989,"Action,Adventure",48000000,474171806
+121,Bicycle Thieves,1948,Drama,133000,436655
+122,Like Stars on Earth,2007,"Drama,Family",0,21897373
+123,1917,2019,"Action,Drama,War",95000000,384479940
+124,Downfall,2004,"Biography,Drama,History",13500000,92181574
+125,Dangal,2016,"Action,Biography,Drama",0,0
+126,For a Few Dollars More,1965,Western,600000,15000000
+127,Batman Begins,2005,"Action,Crime,Drama",150000000,373672993
+128,The Kid,1921,"Comedy,Drama,Family",250000,41960
+129,Some Like It Hot,1959,"Comedy,Music,Romance",2883848,195088
+130,The Father,2020,"Drama,Mystery",6000000,24427162
+131,All About Eve,1950,Drama,1400000,151052
+132,The Wolf of Wall Street,2013,"Biography,Comedy,Crime",100000000,406878233
+133,Green Book,2018,"Biography,Comedy,Drama",23000000,321752656
+134,Judgment at Nuremberg,1961,"Drama,War",3000000,12180
+135,Casino,1995,"Crime,Drama",52000000,116112375
+136,Ran,1985,"Action,Drama,War",11500000,4164283
+137,Pan's Labyrinth,2006,"Drama,Fantasy,War",19000000,83862032
+138,The Truman Show,1998,"Comedy,Drama",60000000,264118201
+139,There Will Be Blood,2007,Drama,25000000,76182388
+140,Unforgiven,1992,"Drama,Western",14400000,159167799
+141,The Sixth Sense,1999,"Drama,Mystery,Thriller",40000000,672806432
+142,Shutter Island,2010,"Mystery,Thriller",80000000,294805697
+143,A Beautiful Mind,2001,"Biography,Drama",58000000,316791257
+144,Jurassic Park,1993,"Action,Adventure,Sci-Fi",63000000,1109802321
+145,Yojimbo,1961,"Action,Drama,Thriller",0,46808
+146,The Treasure of the Sierra Madre,1948,"Adventure,Drama,Western",3000000,5014000
+147,Monty Python and the Holy Grail,1975,"Adventure,Comedy,Fantasy",229575,1940906
+148,The Great Escape,1963,"Adventure,Drama,History",4000000,228178
+149,No Country for Old Men,2007,"Crime,Drama,Thriller",25000000,171627434
+150,Spider-Man: No Way Home,2021,"Action,Adventure,Fantasy",200000000,1921847111
+151,Kill Bill: Vol. 1,2003,"Action,Crime,Drama",30000000,180906076
+152,Rashomon,1950,"Crime,Drama,Mystery",250000,81379
+153,The Thing,1982,"Horror,Mystery,Sci-Fi",15000000,19632715
+154,Finding Nemo,2003,"Animation,Adventure,Comedy",94000000,941637960
+155,The Elephant Man,1980,"Biography,Drama",5000000,26023860
+156,Chinatown,1974,"Drama,Mystery,Thriller",6000000,29225935
+157,Raging Bull,1980,"Biography,Drama,Sport",18000000,23402427
+158,V for Vendetta,2005,"Action,Drama,Sci-Fi",54000000,134686457
+159,Gone with the Wind,1939,"Drama,Romance,War",3977000,402382193
+160,"Lock, Stock and Two Smoking Barrels",1998,"Action,Comedy,Crime",960000,3753929
+161,Inside Out,2015,"Animation,Adventure,Comedy",175000000,858848019
+162,Dial M for Murder,1954,"Crime,Thriller",1400000,31207
+163,The Secret in Their Eyes,2009,"Drama,Mystery,Romance",0,0
+164,Howl's Moving Castle,2004,"Animation,Adventure,Family",24000000,237536126
+165,"Three Billboards Outside Ebbing, Missouri",2017,"Comedy,Crime,Drama",15000000,162861289
+166,The Bridge on the River Kwai,1957,"Adventure,Drama,War",3000000,27200000
+167,Trainspotting,1996,Drama,1500000,16767475
+168,Prisoners,2013,"Crime,Drama,Mystery",46000000,122126687
+169,Warrior,2011,"Action,Drama,Sport",25000000,23308615
+170,Fargo,1996,"Crime,Thriller",7000000,60611975
+171,Gran Torino,2008,Drama,33000000,269958228
+172,My Neighbor Totoro,1988,"Animation,Comedy,Family",0,0
+173,Catch Me If You Can,2002,"Biography,Crime,Drama",0,0
+174,Million Dollar Baby,2004,"Drama,Sport",30000000,216763646
+175,Children of Heaven,1997,"Drama,Family,Sport",0,0
+176,Blade Runner,1982,"Action,Drama,Sci-Fi",28000000,41722424
+177,The Gold Rush,1925,"Adventure,Comedy,Drama",923000,29328
+178,Before Sunrise,1995,"Drama,Romance",2500000,5987386
+179,12 Years a Slave,2013,"Biography,Drama,History",20000000,187733202
+180,Klaus,2019,"Animation,Adventure,Comedy",0,0
+181,Harry Potter and the Deathly Hallows: Part 2,2011,"Adventure,Family,Fantasy",125000000,1342359942
+182,On the Waterfront,1954,"Crime,Drama,Thriller",910000,910000
+183,Ben-Hur,1959,"Adventure,Drama",15000000,74437720
+184,Gone Girl,2014,"Drama,Mystery,Thriller",0,0
+185,The Grand Budapest Hotel,2014,"Adventure,Comedy,Crime",25000000,173082189
+186,Wild Strawberries,1957,"Drama,Romance",0,60418
+187,The General,1926,"Action,Adventure,Comedy",750000,750000
+188,The Third Man,1949,"Film-Noir,Mystery,Thriller",0,1226507
+189,In the Name of the Father,1993,"Biography,Crime,Drama",0,0
+190,The Deer Hunter,1978,"Drama,War",15000000,49074379
+191,Barry Lyndon,1975,"Adventure,Drama,War",11000000,199632
+192,Hacksaw Ridge,2016,"Biography,Drama,History",40000000,180563636
+193,The Wages of Fear,1953,"Adventure,Drama,Thriller",0,1098
+194,Memories of Murder,2003,"Crime,Drama,Mystery",2800000,1166717
+195,Sherlock Jr.,1924,"Action,Comedy,Romance",0,0
+196,Wild Tales,2014,"Comedy,Drama,Thriller",0,0
+197,Mr. Smith Goes to Washington,1939,"Comedy,Drama",1900000,144738
+198,Mad Max: Fury Road,2015,"Action,Adventure,Sci-Fi",150000000,415261382
+199,The Seventh Seal,1957,"Drama,Fantasy",150000,311212
+200,Mary and Max,2009,"Animation,Comedy,Drama",8240000,1740429
+201,How to Train Your Dragon,2010,"Animation,Action,Adventure",165000000,494879471
+202,Room,2015,"Drama,Thriller",13000000,35401758
+203,"Monsters, Inc.",2001,"Animation,Adventure,Comedy",115000000,579707738
+204,Jaws,1975,"Adventure,Thriller",7000000,476512065
+205,Dead Poets Society,1989,"Comedy,Drama",16400000,235860116
+206,The Big Lebowski,1998,"Comedy,Crime",15000000,46969409
+207,Tokyo Story,1953,Drama,0,0
+208,The Passion of Joan of Arc,1928,"Biography,Drama,History",0,0
+209,Hotel Rwanda,2004,"Biography,Drama,History",17500000,33882243
+210,Ford v Ferrari,2019,"Action,Biography,Drama",97600000,225508210
+211,Rocky,1976,"Drama,Sport",960000,117250402
+212,Platoon,1986,"Drama,War",6000000,138545632
+213,Ratatouille,2007,"Animation,Adventure,Comedy",150000000,623726085
+214,Spotlight,2015,"Biography,Crime,Drama",20000000,98690254
+215,The Terminator,1984,"Action,Sci-Fi",6400000,78371200
+216,Logan,2017,"Action,Drama,Sci-Fi",97000000,619179950
+217,Stand by Me,1986,"Adventure,Drama",8000000,52287414
+218,Rush,2013,"Action,Biography,Drama",38000000,96983009
+219,Network,1976,Drama,3800000,23690757
+220,Into the Wild,2007,"Adventure,Biography,Drama",15000000,56675895
+221,Before Sunset,2004,"Drama,Romance",0,0
+222,The Wizard of Oz,1939,"Adventure,Family,Fantasy",2777000,25637669
+223,Pather Panchali,1955,Drama,0,135342
+224,Groundhog Day,1993,"Comedy,Drama,Fantasy",14600000,71108591
+225,The Best Years of Our Lives,1946,"Drama,Romance,War",2100000,23661347
+226,The Exorcist,1973,Horror,11000000,441306145
+227,The Incredibles,2004,"Animation,Action,Adventure",92000000,631607053
+228,To Be or Not to Be,1942,"Comedy,Romance,War",0,0
+229,La haine,1995,"Crime,Drama",0,0
+230,The Battle of Algiers,1966,"Drama,War",800000,962002
+231,Pirates of the Caribbean: The Curse of the Black Pearl,2003,"Action,Adventure,Fantasy",140000000,654264015
+232,Hachi: A Dog's Tale,2009,"Biography,Drama,Family",0,0
+233,The Grapes of Wrath,1940,Drama,800000,800000
+234,Jai Bhim,2021,"Crime,Drama,Mystery",0,0
+235,My Father and My Son,2005,"Drama,Family",0,0
+236,Amores Perros,2000,"Drama,Thriller",2000000,20908467
+237,Rebecca,1940,"Drama,Film-Noir,Mystery",1288000,72275
+238,Cool Hand Luke,1967,"Crime,Drama",3200000,67
+239,The Handmaiden,2016,"Drama,Romance,Thriller",0,0
+240,The 400 Blows,1959,"Crime,Drama",0,127244
+241,The Sound of Music,1965,"Biography,Drama,Family",8200000,159428329
+242,It Happened One Night,1934,"Comedy,Romance",325000,11477
+243,Persona,1966,"Drama,Thriller",0,0
+244,Life of Brian,1979,Comedy,4000000,20745728
+245,The Iron Giant,1999,"Animation,Action,Adventure",70000000,23335817
+246,The Help,2011,Drama,25000000,216639112
+247,Dersu Uzala,1975,"Adventure,Biography,Drama",4000000,14480
+248,Aladdin,1992,"Animation,Adventure,Comedy",0,0
+249,Gandhi,1982,"Biography,Drama,History",22000000,52767889
+250,Dances with Wolves,1990,"Adventure,Drama,Western",22000000,424208848
